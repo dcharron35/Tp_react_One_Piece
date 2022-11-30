@@ -1,7 +1,6 @@
 import Logo from '../composant/Logo';
 import Navigation from '../composant/Navigation';
-import Composant from './../composant/Fruits';
-import Fruits from './Fruits';
+
 
 
 function App() {
