@@ -13,7 +13,7 @@ function Personnage(){
     return(
         <div>
             <h1>Liste des personnages</h1>         
-            <ul>
+            <ul className="infos">
                 {
                     data.map((LePerso)=>(     
                         <CartePerso Perso={LePerso} />

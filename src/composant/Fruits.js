@@ -14,7 +14,7 @@ function Composant(){
         <div>
             <h1>Liste des fruits du démon</h1>
             
-            <ul>
+            <ul className="infos">
                 {
                     data.map((LeFruit)=>(
                         <Carte Fruit={LeFruit} />

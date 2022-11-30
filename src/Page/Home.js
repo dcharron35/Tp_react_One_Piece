@@ -9,7 +9,7 @@ function App() {
     <div className="App">
         <Logo/>
         <Navigation />
-       <h1>Ce site réfèrent tout les personnages et fruits du démon de One Piece</h1> 
+       <h1>Ce site réfèrent tous les personnages et fruits du démon de One Piece</h1> 
        
        <h2>Réaliser par Dylan CHARRON</h2>
        <h3>Utilise l'api <a href="https://api-onepiece.com/">One Piece</a></h3>
