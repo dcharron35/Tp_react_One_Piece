@@ -14,6 +14,9 @@ const Navigation =() => {
                 <NavLink to="/Personnage" className={(nav)=>(nav.isActive ?"nav-active" : "")}>
                     <li>Personnage</li>
                 </NavLink>
+                <NavLink to="/Favoris" className={(nav)=>(nav.isActive ?"nav-active" : "")}>
+                    <li>Favoris</li>
+                </NavLink>
             </ul>
         </div>
     );
